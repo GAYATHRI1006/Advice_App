@@ -1,0 +1,30 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #9c002fd8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+div{
+    text-align: center;
+    color: #fff;
+}
+div h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+div button{ 
+    border: none;
+    background-color: #182c61;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+b{
+    color: #182c61;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+}
