@@ -1,3 +1,10 @@
+# React Advice Generator App
+
+A simple React app that fetches and displays random pieces of advice from the [Advice Slip API](https://api.adviceslip.com). Includes a counter to track how many pieces of advice you've seen.
+
+## 🔗 Live Demo
+
+[View Live](https://advice-app-sample.vercel.app/)  
 
 ## Developed By  
 
